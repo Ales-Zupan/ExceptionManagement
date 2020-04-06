@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d1ae322adb3b0010f3402706ca9619b0" sys_domain="global" table="x_454869_exception_exception_requests" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59ae322adb3b0010f3402706ca9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_454869_exception_exception_requests" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">d1ae322adb3b0010f3402706ca9619b0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">dc9d3ea6db3b0010f3402706ca961964</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:11:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:20:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9b0076adb3b0010f3402706ca9619f6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_454869_exception_exception_requests" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">d1ae322adb3b0010f3402706ca9619b0</sys_ui_form>
+            <sys_ui_section caption="Exception Description" display_value="Exception Description" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">a9b0076adb3b0010f3402706ca9619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:20:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15ae322adb3b0010f3402706ca9619b3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_454869_exception_exception_requests" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">d1ae322adb3b0010f3402706ca9619b0</sys_ui_form>
+            <sys_ui_section caption="Risk analysis" display_value="Risk analysis" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">d1ae322adb3b0010f3402706ca9619af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:20:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:28:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6920baadb3b0010f3402706ca961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_454869_exception_exception_requests" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">d1ae322adb3b0010f3402706ca9619b0</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">5e920baadb3b0010f3402706ca96193c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:28:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:28:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a920baadb3b0010f3402706ca96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_454869_exception_exception_requests" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">d1ae322adb3b0010f3402706ca9619b0</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_454869_exception_exception_requests" sys_domain="global" view="Default view">d6920baadb3b0010f3402706ca96193d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:28:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_454869_exception_exception_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1ae322adb3b0010f3402706ca9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_454869_exception_exception_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Exception Management" source="x_454869_exception">90da3a26db3b0010f3402706ca96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exception Management">90da3a26db3b0010f3402706ca96192f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d1ae322adb3b0010f3402706ca9619b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:11:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

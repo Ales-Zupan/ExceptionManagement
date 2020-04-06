@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_impact_score" table="x_454869_exception_exception_requests" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_impact_score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Very Low</label>
+            <language>en</language>
+            <name>x_454869_exception_exception_requests</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1712c3aadb3b0010f3402706ca9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:26:48</sys_updated_on>
+            <value>vl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_impact_score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Low</label>
+            <language>en</language>
+            <name>x_454869_exception_exception_requests</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9312c3aadb3b0010f3402706ca9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:26:48</sys_updated_on>
+            <value>l</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_impact_score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medium</label>
+            <language>en</language>
+            <name>x_454869_exception_exception_requests</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f12c3aadb3b0010f3402706ca9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:26:48</sys_updated_on>
+            <value>m</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_impact_score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>High</label>
+            <language>en</language>
+            <name>x_454869_exception_exception_requests</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b12c3aadb3b0010f3402706ca9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:26:48</sys_updated_on>
+            <value>h</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_impact_score</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Very High</label>
+            <language>en</language>
+            <name>x_454869_exception_exception_requests</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:26:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d312c3aadb3b0010f3402706ca9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:26:49</sys_updated_on>
+            <value>vh</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_impact_score</element>
+            <name>x_454869_exception_exception_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-30 05:26:48</sys_created_on>
+            <sys_id>5f12c3aadb3b0010f3402706ca9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_impact_score</sys_name>
+            <sys_package display_value="Exception Management" source="x_454869_exception">90da3a26db3b0010f3402706ca96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exception Management">90da3a26db3b0010f3402706ca96192f</sys_scope>
+            <sys_update_name>sys_choice_x_454869_exception_exception_requests_u_impact_score</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-30 05:26:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

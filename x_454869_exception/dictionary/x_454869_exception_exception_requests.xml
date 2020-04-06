@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Exception Requests" max_length="40" name="x_454869_exception_exception_requests" sizeclass="9" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Asset" mandatory="true" max_length="256" name="u_asset" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Compensating controls" mandatory="true" max_length="2048" name="u_compensating_controls" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Consultations" max_length="2048" name="u_consultations" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Exception description" mandatory="true" max_length="2048" name="u_exception_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="vl" label="Risk Impact Score" max_length="40" name="u_impact_score" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Very Low" sequence="0" value="vl"/>
+                <element inactive_on_update="false" label="Low" sequence="1" value="l"/>
+                <element inactive_on_update="false" label="Medium" sequence="2" value="m"/>
+                <element inactive_on_update="false" label="High" sequence="3" value="h"/>
+                <element inactive_on_update="false" label="Very High" sequence="4" value="vh"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="IRMPF Identification" max_length="256" name="u_irmpf_identification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rationale" mandatory="true" max_length="2048" name="u_rationale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested Duration" mandatory="true" max_length="40" name="u_requested_duration" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Requestor" mandatory="true" max_length="32" name="u_requestor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request Type" mandatory="true" max_length="40" name="u_request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Technical" sequence="0" value="technical"/>
+                <element inactive_on_update="false" label="Policy related" sequence="1" value="policy_related"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Risk category" max_length="40" name="u_risk_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="RC1" sequence="0" value="rc1"/>
+                <element inactive_on_update="false" label="RC2" sequence="1" value="rc2"/>
+                <element inactive_on_update="false" label="RC3" sequence="2" value="rc3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Risk Impact" max_length="2048" name="u_risk_impact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Section and paragraph" max_length="256" name="u_section_paragraph" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
+    </element>
+</database>
